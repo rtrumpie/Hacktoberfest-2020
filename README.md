@@ -2,7 +2,7 @@
 https://hacktoberfest.digitalocean.com/
 
 ## How to contribute
-Submit your pull request here for Hacktoberfest-2k19 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
+Submit your pull request here for Hacktoberfest-2k20 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
 
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by DigitalOcean and DEV. It is the easiest way to get into open source!
 
