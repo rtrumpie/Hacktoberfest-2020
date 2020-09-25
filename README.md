@@ -1,4 +1,4 @@
-# Hacktoberfest-2019
+# Hacktoberfest-2020
 https://hacktoberfest.digitalocean.com/
 
 ## How to contribute
